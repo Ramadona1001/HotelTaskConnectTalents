@@ -1,3 +1,6 @@
+# Please Git Clone From This Repo At the first and make composer update
+`git clone https://github.com/Ramadona1001/HotelTaskConnectTalents.git`
+
 # Hotel Search API
 
 This project implements a RESTful API for searching hotels based on various criteria such as name, destination, price range, and date range.
