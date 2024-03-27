@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.com/Ramadona1001/HotelTaskConnectTalents.svg?branch=main)](https://travis-ci.com/Ramadona1001/HotelTaskConnectTalents)
 
+[![Code Climate](https://codeclimate.com/github/Ramadona1001/HotelTaskConnectTalents/badges/gpa.svg)](https://codeclimate.com/github/Ramadona1001/HotelTaskConnectTalents)
+
 # Please Git Clone From This Repo At the first and make composer update
 `git clone https://github.com/Ramadona1001/HotelTaskConnectTalents.git`
 
