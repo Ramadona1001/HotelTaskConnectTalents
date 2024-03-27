@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/github/Ramadona1001/HotelTaskConnectTalents.svg?branch=main)](https://travis-ci.com/hithub/Ramadona1001/HotelTaskConnectTalents)
+[![Build Status](https://travis-ci.com/github/Ramadona1001/HotelTaskConnectTalents.svg?branch=main)](https://travis-ci.com/github/Ramadona1001/HotelTaskConnectTalents)
 
 # Please Git Clone From This Repo At the first and make composer update
 `git clone https://github.com/Ramadona1001/HotelTaskConnectTalents.git`
